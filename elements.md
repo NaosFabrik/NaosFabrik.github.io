@@ -12,7 +12,7 @@ aside: true
 * Information extraction
 * Ontlogy engineering
 * Rexical semantics
-### Human Computer Interaction
+### Human-centered Computing
 * Accesibility
 ### Applied Computing
 * Arts and humanities
