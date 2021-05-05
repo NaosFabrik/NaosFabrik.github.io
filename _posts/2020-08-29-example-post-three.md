@@ -11,7 +11,7 @@ feature_image: "https://picsum.photos/2560/600?image=733"
 image: "https://picsum.photos/2560/600?image=733"
 ---
 
-* Sep. 2019 - Mar. 2021 [Wedu Global](https://www.weduglobal.org/), "high potential young women" ("Rising Stars")
+* Sep. 2019 - Mar. 2021 [Wedu Global](https://www.weduglobal.org/), Selected High Potential Mentee ("Rising Stars")
 
 got opportunities to access long-term mentorship and develop leadership skills.
 
