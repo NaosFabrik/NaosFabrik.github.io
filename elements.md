@@ -1,12 +1,3 @@
----
-title: Research 
-feature_text: |
-  Research Interests and Related Experiences
-feature_image: "https://picsum.photos/2560/600?image=873"
-excerpt: "A demo of Markdown and HTML includes"
-aside: true
----
-
 ## Research Interests
 #### Natural Language Processing
 * Information extraction
