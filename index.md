@@ -13,4 +13,4 @@ I'm a software engineer with creative and multi-lingual backgrounds who especial
 - 🎨 Design & Tech Integrator for problem solving
 - 🌱 Contents Creation, Photography, and Tandem Learning 
 
-{% include button.html text="github" icon="github" link="https://github.com/NaosFabrik" color="#0366d6" %} 
+{% include button.html text="github" icon="github" link="https://github.com/NaosFabrik" color="#211F1F" %} 
