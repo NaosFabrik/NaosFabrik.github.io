@@ -1,7 +1,7 @@
 ---
 title: About 
 feature_image: "https://github.com/NaosFabrik/NaosFabrik.github.io/blob/main/assets/logos/header.png"
-excerpt: "Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather than starting from scratch, this boilerplate is designed to get the ball rolling immediately. Install it, configure it, tweak it, push it."
+excerpt: "Personal Webpage"
 ---
 
 ## Hi, I'm Nao 👋
