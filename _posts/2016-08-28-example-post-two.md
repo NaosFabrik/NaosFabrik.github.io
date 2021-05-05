@@ -1,5 +1,5 @@
 ---
-title: Photography Works
+title: Competition Works
 categories:
 - Photography
 feature_text: |
