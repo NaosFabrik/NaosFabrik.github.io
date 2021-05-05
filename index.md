@@ -1,7 +1,7 @@
 ---
 layout: home
 title: About 
-feature_image:"/assets/logos/header.png "
+feature_image: "/assets/logos/header.png"
 excerpt: "Personal Webpage"
 ---
 
