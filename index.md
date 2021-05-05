@@ -12,4 +12,5 @@ I'm a software engineer with creative and multi-lingual backgrounds who especial
 - 🎨 Design & Tech Integrator for problem solving
 - 🌱 Contents Creation, Photography, and Tandem Learning 
 
-{% include button.html text="github" icon="github" link="https://github.com/NaosFabrik" color="#211F1F" %} 
+{% include button.html text="GitHub" icon="github" link="https://github.com/NaosFabrik" color="#211F1F" %} 
+{% include button.html text="Google Form" icon="email" link="https://forms.gle/AwGAjaZeFhv4VtDq5"}
