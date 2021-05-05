@@ -1,5 +1,5 @@
 ---
-title: 
+title: Membership
 categories:
 - Membership
 excerpt: |
