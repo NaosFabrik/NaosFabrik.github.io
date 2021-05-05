@@ -1,6 +1,7 @@
 ---
+layout: home
 title: About 
-feature_image: "https://github.com/NaosFabrik/NaosFabrik.github.io/blob/main/assets/logos/header.png"
+feature_image: "/assets/logos/header.png"
 excerpt: "Personal Webpage"
 ---
 
