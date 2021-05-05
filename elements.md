@@ -1,4 +1,3 @@
-## Research Interests
 #### Natural Language Processing
 * Information extraction
 * Ontlogy engineering
@@ -10,7 +9,6 @@
 * Operations research
 
 from [ACM Computing Classification System](https://dl.acm.org/ccs)
-
 
 
 ## Publication
