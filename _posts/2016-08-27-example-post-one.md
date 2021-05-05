@@ -1,7 +1,7 @@
 ---
 title: Description of an Alembic
 categories:
-- General
+- Fine Arts
 feature_image: "https://picsum.photos/2560/600?image=872"
 ---
 
