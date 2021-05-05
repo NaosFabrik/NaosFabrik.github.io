@@ -1,9 +1,7 @@
 ---
+layout: home
 title: About 
-feature_text: |
-  ## Alembic
-  A Jekyll boilerplate theme designed to be a starting point for any Jekyll website
-feature_image:/assets/logos/header.png 
+feature_image:"/assets/logos/header.png "
 excerpt: "Personal Webpage"
 ---
 
