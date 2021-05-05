@@ -1,5 +1,5 @@
 ---
-title: Description of a Pot Still
+title: Concept Prototyping Works
 categories:
 - Concept Prototyping
 excerpt: |
@@ -11,8 +11,16 @@ feature_image: "https://picsum.photos/2560/600?image=733"
 image: "https://picsum.photos/2560/600?image=733"
 ---
 
-A pot still is a type of still used in distilling spirits such as whisky or brandy. Heat is applied directly to the pot containing the wash (for whisky) or wine (for brandy). This is called a batch distillation (as opposed to a continuous distillation).
+These are selected three concept protopyping works based on my interests for Psychology, Museum Studies, and Behavioral Economics.  
 
-At standard atmospheric pressure, alcohol boils at 78 °C (172 °F), while water boils at 100 °C (212 °F). During distillation, the vapour contains more alcohol than the liquid. When the vapours are condensed, the resulting liquid contains a higher concentration of alcohol. In the pot still, the alcohol and water vapour combine with esters and flow from the still through the condensing coil. There they condense into the first distillation liquid, the so-called "low wines". The low wines have a strength of about 25–35% alcohol by volume, and flow into a second still. It is then distilled a second time to produce the colourless spirit, collected at about 70% alcohol by volume. Colour is added through maturation in an oak aging barrel, and develops over time.
+* Syne Studio
 
-The modern pot still is a descendant of the alembic, an earlier distillation device.
+Synesthesia Drawing Experimental System with Arduino and Processing (micro-computer and Java-based programing tool)
+
+* MOMC -My Own Museum Collections-
+
+Fine Prize from The Organization of Advertising Creation Japan, 4th Student Idea Contest to Make the Society Better
+
+* Nudge Object Design
+
+Problem Solving: How make people willingly to discharge static electricity before entering the building
