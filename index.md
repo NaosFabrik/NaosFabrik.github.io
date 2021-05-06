@@ -13,7 +13,7 @@ I'm a software engineer with creative and multi-lingual backgrounds who especial
 - 🌱 Photography(6years+), Language Studies(3years+), and Contents Creation(2years+) 
 
 Fun Fact: Transition of My Future Dreams
-- 🦄 Dancer, Photographer, Translator, Pharmacist, Astronomer, and Curator 
+- 🦄 Dancer, Photographer, Translator, Pharmacist, ChemistAstronomer, and Curator 
 
 {% include button.html text="GitHub" icon="github" link="https://github.com/NaosFabrik" color="#211F1F" %} 
 {% include button.html text="Google Form" icon="email" link="https://forms.gle/AwGAjaZeFhv4VtDq5" %}
