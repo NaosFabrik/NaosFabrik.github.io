@@ -3,14 +3,12 @@
 * Information extraction
 * Ontlogy engineering
 * Rexical semantics
+* Multimodal Signal Processing
 #### Human-centered Computing
 * Accesibility
 #### Applied Computing
 * Arts and humanities
 * Operations research
-
-from [ACM Computing Classification System](https://dl.acm.org/ccs)
-
 
 ## Publication
 Coming Soon ...
