@@ -15,3 +15,17 @@ I have recieved around both nation wide and international 20 awards. In addition
 Watching exhibited my works at museums, station, at times, on magazines are precious time, but simultaneously I feel a bit anxitious about how my work reached to visitors and viewers. 
 
 <!-- more -->
+
+*
+
+Exhibition 
+
+*
+
+Exhibition 
+
+* Nikkor
+
+Exhibition 
+
+
