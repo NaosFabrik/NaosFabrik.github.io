@@ -1,5 +1,5 @@
 ---
-title: Photography Works
+title: Awarded Works
 categories:
 - Photography
 feature_text: |
@@ -15,3 +15,29 @@ I have recieved around both nation wide and international 20 awards. In addition
 Watching exhibited my works at museums, station, at times, on magazines are precious time, but simultaneously I feel a bit anxitious about how my work reached to visitors and viewers. 
 
 <!-- more -->
+* ""
+
+Hikoma Ueno
+
+Exhibition: Nov. - Dec. 2012 at [TOKYO PHOTOGRAPHIC ART MUSEUM](https://topmuseum.jp/e/contents/index.html)
+
+*
+
+Japan-China-Korea
+
+*
+
+*　"My Grandpa and Blue"
+
+Fine Prize of Under 31 Section 
+
+60th Nikon Photo Contest
+
+
+* "Green Bicycle"
+
+Copper Prize
+
+55th National Art and Science Contest in Japan supported by Cabinet Office, Ministry of Education, and Ministry of the Environment
+
+Exhibition: Mar. - Apr. 2012 at [the Science Museum, Japan](https://www.jsf.or.jp/en/)
