@@ -12,10 +12,6 @@ Watching exhibited my works at museums, station, at times, on magazines are prec
 Flicker
 
 <!-- more -->
-
-### Selected Awarded Works
-
-
 ### Selected Favourite Works
 
 
