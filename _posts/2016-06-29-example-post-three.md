@@ -1,9 +1,8 @@
 ---
-title: Concept Prototyping Works
+title: Concept Prototyping 
 categories:
 - Concept Prototyping
 excerpt: |
-  A pot still is a type of still used in distilling spirits such as whisky or brandy. Heat is applied directly to the pot containing the wash (for whisky) or wine (for brandy).
 feature_text: |
   ## The Pot Still
   The modern pot still is a descendant of the alembic, an earlier distillation device
@@ -11,15 +10,22 @@ feature_image: "https://picsum.photos/2560/600?image=733"
 image: "https://picsum.photos/2560/600?image=733"
 ---
 
-These are selected three concept protopyping works based on my interests for Psychology, Museum Studies, and Behavioral Economics.  
+These are selected three concept protopyping works based on my interests for Psychology, Museum Studies, and Behavioral Economics. 
 
-* Syne Studio
+* "Intersection of Lights"
+
+Concept for the dream guest room with an introduction movie and models created on Autodesk Fusion 360
+
+* "Syne Studio"
 
 Synesthesia Drawing Experimental System with Arduino and Processing (micro-computer and Java-based programing tool)
 
-* MOMC -My Own Museum Collections-
+* "MOMC -My Own Museum Collections-"
+
+Issue:
 
 Fine Prize from The Organization of Advertising Creation Japan, 4th Student Idea Contest to Make the Society Better
+
 
 * Nudge Object Design
 
