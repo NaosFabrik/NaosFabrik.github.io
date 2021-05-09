@@ -14,7 +14,7 @@ These are selected three concept protopyping works based on my interests for Psy
 
 * "Intersection of Lights"
 
-Concept for the dream guest room 
+Concept for the dream guest room with an introduction movie and models created on Autodesk Fusion 360
 
 * "Syne Studio"
 
