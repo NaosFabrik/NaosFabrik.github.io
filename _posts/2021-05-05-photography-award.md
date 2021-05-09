@@ -1,5 +1,7 @@
 ---
+
 title: Awarded Works
+
 categories:
 - Photography
 feature_text: |
@@ -41,3 +43,4 @@ Copper Prize
 55th National Art and Science Contest in Japan supported by Cabinet Office, Ministry of Education, and Ministry of the Environment
 
 Exhibition: Mar. - Apr. 2012 at [the Science Museum, Japan](https://www.jsf.or.jp/en/)
+
