@@ -10,7 +10,7 @@ I'm a software engineer with creative and multi-lingual backgrounds who especial
 - 🦊 Working as a full-time Software Engineer and Researcher at a R&D division 
 - 🚀 Learning NLP and Business for Master's Degree
 - 🎨 Design & Tech Integrator for problem solving
-- 🌱 Photography(6years+), Contents Creation(2years+), and Tandem Learning(1years+),
+- 🌱 Photography(6years+), Contents Creation(2years+), and Tandem Learning(1years+)
 
 Fun Fact: Transition of My Future Dreams
 - 🦄 Dancer, Photographer, Translator, Pharmacist, Chemist, Astronomer, and Curator 
