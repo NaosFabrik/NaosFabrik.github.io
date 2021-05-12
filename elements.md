@@ -2,8 +2,8 @@
 #### Natural Language Processing
 * Information extraction
 * Ontlogy engineering
-* Rexical semantics
-* Multimodal Signal Processing
+* Lexical semantics
+* Multimodal signal processing
 #### Human-centered Computing
 * Accesibility
 #### Applied Computing
