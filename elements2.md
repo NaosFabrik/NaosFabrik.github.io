@@ -1,5 +1,7 @@
-# Project
-
+---
+title: Project
+excerpt: "Project"
+---
 ## School Project
 * "Two Dimensional Put-in / Take-out Detection of Linens with Ultrasonic Microphone Array"
 
