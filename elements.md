@@ -16,7 +16,7 @@ excerpt: "Research Interest"
 ## Publication
 Coming Soon ...
 
-## Related Experiences
+## Related Experience
 * July.2021 [Eastern European Machine Learning Summer School 2021](https://www.eeml.eu/home)in Budapest, Hungary(virtual), Selected Participant 
 * Jan.-Mar.2020 [Digital Product School by UnternehmerTUM](https://digitalproductschool.io/)in Munich, Germany, Selected Software Engineer
 * Sep.2019 [Huawei Seeds for the Future Program 2019](https://www.huawei.com/minisite/seeds-for-the-future/index.html)in Beijin and Shenzhen, China, Selected Delegate
