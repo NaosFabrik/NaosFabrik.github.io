@@ -18,6 +18,8 @@ These are selected three concept protopyping works based on my interests for Psy
 
 Concept for the dream guest room with an introduction movie and models created on Autodesk Fusion 360
 
+{% include video.html id="" title="concept guest room video" %}
+
 * "Syne Studio"
 
 Synesthesia Drawing Experimental System with Arduino and Processing (micro-computer and Java-based programing tool)
