@@ -19,7 +19,7 @@ Fine Prize
 
 2nd Japan-Korea-China Photography Contest for high school students
 
-{% include figure.html image="https://github.com/NaosFabrik/NaosFabrik.github.io/blob/amend/assets/hobby/parallel.JPG" caption="" width="300" height="800" %}
+{% include figure.html image="https://github.com/NaosFabrik/NaosFabrik.github.io/blob/amend/assets/hobby/parallel.JPG" caption="" width="800" height="300" %}
 
 
 *　"My Grandpa and Blue"
@@ -28,7 +28,7 @@ Fine Prize of Under 31 Section
 
 60th Nikon Photo Contest
 
-{% include figure.html image="https://github.com/NaosFabrik/NaosFabrik.github.io/blob/amend/assets/hobby/sofu.JPG" caption="" width="300" height="800" %}
+{% include figure.html image="https://github.com/NaosFabrik/NaosFabrik.github.io/blob/amend/assets/hobby/sofu.JPG" caption="" width="800" height="300" %}
 
 
 
@@ -40,7 +40,7 @@ Copper Prize
 
 Exhibition: Mar. - Apr. 2012 at [the Science Museum, Japan](https://www.jsf.or.jp/en/)
 
-{% include figure.html image="https://github.com/NaosFabrik/NaosFabrik.github.io/blob/amend/assets/hobby/bike.JPG" caption="" width="300" height="800" %}
+{% include figure.html image="https://github.com/NaosFabrik/NaosFabrik.github.io/blob/amend/assets/hobby/bike.JPG" caption="" width="800" height="300" %}
 
 
 
