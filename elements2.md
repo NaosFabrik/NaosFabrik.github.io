@@ -3,9 +3,8 @@ title: Project
 excerpt: "Project"
 ---
 ## School Project
-* "Two Dimensional Put-in / Take-out Detection of Linens with Ultrasonic Microphone Array"
-
-Graduation Thesis
+* Graduation Thesis
+ "Two Dimensional Put-in / Take-out Detection of Linens with Ultrasonic Microphone Array"
 
 * Favourite Course Works
 
@@ -13,20 +12,19 @@ Graduation Thesis
 
   - Database Modeling
 
-  - Data Aquisition
 
 ## Personal Project
+*
+
 * “Automatic photo title generation method using TensorFlow”
 
 2019 Achievement Award, Japan MEXT Science Inter College Contest
 
 Poster and Thesis 
 
-
 * "New business model for book stores" Data-driven proposal
 
 2018 Customer Value Creation Award, Digital Innovators Grand Prix (Business Planning) 
-
 
 Oral Presentation
 
