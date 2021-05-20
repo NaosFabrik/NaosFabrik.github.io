@@ -15,4 +15,4 @@ I'm a software engineer with creative and multi-lingual backgrounds who especial
 Fun Fact: Transition of My Future Dreams
 - 🦄 Dancer, Photographer, Translator, Pharmacist, Chemist, Astronomer, and Curator 
 
-{% include button.html text="GitHub" icon="github" link="https://github.com/NaosFabrik" color="#211F1F" %}{% include button.html text="Google Form" icon="email" link="https://forms.gle/eNTHtCFPUnCRYaMWA" %}
+{% include button.html text="GitHub" icon="github" link="https://github.com/NaosFabrik" color="#211F1F" %}{% include button.html text="Google Form" icon="email" link="https://forms.gle/eNTHtCFPUnCRYaMWA" %}{% include button.html icon="flickr" link="" color="#FF0080" %}

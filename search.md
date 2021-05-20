@@ -3,4 +3,4 @@ title: Contact
 excerpt: "Contact Information"
 ---
 
-## Google Form
+{% include button.html text="Google Form" icon="email" link="https://forms.gle/eNTHtCFPUnCRYaMWA" %}
