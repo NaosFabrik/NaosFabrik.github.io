@@ -12,13 +12,14 @@ I have recieved around both nation-wide and international 20 awards.
 
 Some of them were exhibited in several museums, spreaded as a postcard, used for advertisement, and contributed for the suggestion of filming locations.
 
+## Favourites
 * "Parallel "World"
 
 Fine Prize
 
 2nd Japan-Korea-China Photography Contest for high school students
 
-{% include figure.html image="https://github.com/NaosFabrik/NaosFabrik.github.io/blob/amend/assets/hobby/bike.JPG" caption="" width="300" height="800" %}
+{% include figure.html image="https://github.com/NaosFabrik/NaosFabrik.github.io/blob/amend/assets/hobby/parallel.JPG" caption="" width="300" height="800" %}
 
 
 *　"My Grandpa and Blue"
@@ -43,7 +44,7 @@ Exhibition: Mar. - Apr. 2012 at [the Science Museum, Japan](https://www.jsf.or.j
 
 
 
-
+## Others
 * ""
 
 The Ueno Hikoma Awards - Kyushu Sangyo University Photo Contest
