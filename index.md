@@ -1,6 +1,6 @@
 ---
 title: About 
-feature_image: "https://github.com/NaosFabrik/NaosFabrik.github.io/blob/amend/assets/logos/portfolio_bannar.png"
+feature_image: /assets/logos/portfolio_bannar.jpg
 excerpt: "Personal Webpage"
 ---
 
