@@ -5,29 +5,22 @@ title: Awarded Works
 categories:
 - Photography
 feature_text: |
-  The History of the Alembic tool
 ---
 
 Since I was around 10 years old, I started to take pictures.
 
 In my junior and senior high schools, I belonged to a new-founded photo club and worked as a leader in my secound grade in the high school.
 
-I have recieved around both nation wide and international 20 awards. In addition to challenge conpetitions, I also like to take pictures with some message to think about. 
+I have recieved around both nation-wide and international 20 awards. 
 
-Watching exhibited my works at museums, station, at times, on magazines are precious time, but simultaneously I feel a bit anxitious about how my work reached to visitors and viewers. 
+Some of them were exhibited in several museums, spreaded as a postcard, used for advertisement, and contributed for the suggestion of filming locations.
 
 <!-- more -->
-* ""
 
-Hikoma Ueno
-
-Exhibition: Nov. - Dec. 2012 at [TOKYO PHOTOGRAPHIC ART MUSEUM](https://topmuseum.jp/e/contents/index.html)
-
-*
+* "Parallel "World"
 
 Japan-China-Korea
 
-*
 
 *　"My Grandpa and Blue"
 
@@ -43,4 +36,16 @@ Copper Prize
 55th National Art and Science Contest in Japan supported by Cabinet Office, Ministry of Education, and Ministry of the Environment
 
 Exhibition: Mar. - Apr. 2012 at [the Science Museum, Japan](https://www.jsf.or.jp/en/)
+
+
+
+* ""
+
+The Ueno Hikoma Awards - Kyushu Sangyo University Photo Contest
+
+Exhibition: Nov. - Dec. 2012 at [TOKYO PHOTOGRAPHIC ART MUSEUM](https://topmuseum.jp/e/contents/index.html)
+
+* "Truely"
+
+
 
