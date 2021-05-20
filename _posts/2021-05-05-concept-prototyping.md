@@ -5,20 +5,17 @@ categories:
 - Concept Prototyping
 excerpt: |
 feature_text: |
-  ## The Pot Still
-  The modern pot still is a descendant of the alembic, an earlier distillation device
-feature_image: "https://picsum.photos/2560/600?image=733"
 image: ""
-
 ---
 
 These are selected three concept protopyping works based on my interests for Psychology, Museum Studies, and Behavioral Economics. 
 
 * "Intersection of Lights"
-
 Concept for the dream guest room with an introduction movie and models created on Autodesk Fusion 360
 
-{% include video.html id="" title="concept guest room video" %}
+{% include figure.html image="" caption="3D models" position="right" width="300" height="800" %}
+
+{% include video.html id="https://youtube.com/shorts/SnC-7voZ9WA?feature=share" title="Concept Video" %}
 
 * "Syne Studio"
 
