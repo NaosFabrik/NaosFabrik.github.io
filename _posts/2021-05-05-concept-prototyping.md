@@ -13,7 +13,7 @@ Concept for the dream guest room with an introduction movie and models created o
 
 {% include figure.html image="" caption="3D models" position="right" width="300" height="800" %}
 
-{% include video.html id="https://youtube.com/shorts/SnC-7voZ9WA?feature=share" title="Concept Video" %}
+{% include video.html id="https://youtube.com/shorts/5kmTHwyZZjg?feature=share" title="Concept Video" %}
 
 * "Syne Studio"
 
