@@ -2,7 +2,6 @@
 title: Hobby Works
 categories:
 - Photography
-feature_text: |
 ---
 In addition to challenge conpetitions, I also like to take pictures with some message to think about. 
 
