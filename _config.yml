@@ -124,7 +124,7 @@ navigation_header:
 - title: Hobby
   url: /categories/
 - title: Contact
-  url: /search/
+  url: /contact/
 
 #site credits
 navigation_footer:
