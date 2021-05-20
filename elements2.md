@@ -15,8 +15,6 @@ Graduation Thesis
 
   - Data Aquisition
 
-Data Visualization
-
 ## Personal Project
 * “Automatic photo title generation method using TensorFlow”
 
