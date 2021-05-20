@@ -1,11 +1,7 @@
 ---
 title: Concept Prototyping 
-
 categories:
 - Concept Prototyping
-excerpt: |
-feature_text: |
-image: ""
 ---
 
 These are selected three concept protopyping works based on my interests for Psychology, Museum Studies, and Behavioral Economics. 

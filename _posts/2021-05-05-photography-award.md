@@ -1,21 +1,16 @@
 ---
-
 title: Awarded Works
-
 categories:
 - Photography
-feature_text: |
 ---
 
 Since I was around 10 years old, I started to take pictures.
 
-In my junior and senior high schools, I belonged to a new-founded photo club and worked as a leader in my secound grade in the high school.
-
 I have recieved around both nation-wide and international 20 awards. 
 
-Some of them were exhibited in several museums, spreaded as a postcard, used for advertisement, and contributed for the suggestion of filming locations.
-
 <!-- more -->
+
+Some of them were exhibited in several museums, spreaded as a postcard, used for advertisement, and contributed for the suggestion of filming locations.
 
 * "Parallel "World"
 
