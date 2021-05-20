@@ -13,7 +13,7 @@ I have recieved around both nation-wide and international 20 awards.
 Some of them were exhibited in several museums, spreaded as a postcard, used for advertisement, and contributed for the suggestion of filming locations.
 
 ## Favourites
-* "Parallel "World"
+* "Parallel World"
 
 Fine Prize
 
