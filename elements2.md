@@ -7,17 +7,28 @@ excerpt: "Project"
 
 Graduation Thesis
 
+* Favourite Course Works
+
+- Data Visualization
+
+- Database Modeling
+
+- Data Aquisition
+
+Data Visualization
+
 ## Personal Project
 * “Automatic photo title generation method using TensorFlow”
 
 2019 Achievement Award, Japan MEXT Science Inter College Contest
 
-Poster and Thesis
+Poster and Thesis 
 
 
 * "New business model for book stores" Data-driven proposal
 
 2018 Customer Value Creation Award, Digital Innovators Grand Prix (Business Planning) 
+
 
 Oral Presentation
 
