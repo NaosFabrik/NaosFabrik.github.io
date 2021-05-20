@@ -9,11 +9,11 @@ Graduation Thesis
 
 * Favourite Course Works
 
-- Data Visualization
+  - Data Visualization
 
-- Database Modeling
+  - Database Modeling
 
-- Data Aquisition
+  - Data Aquisition
 
 Data Visualization
 
