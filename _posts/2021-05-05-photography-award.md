@@ -21,6 +21,7 @@ Fine Prize, 2nd Japan-Korea-China Photography Contest for high school students
 
 
 * "Green Bicycle"
+
 {% include figure.html image="/assets/hobby/bike.png" caption="" width="1600" height="800" %}
 
 Copper Prize, 55th National Art and Science Contest in Japan supported by Cabinet Office, Ministry of Education, and Ministry of the Environment
