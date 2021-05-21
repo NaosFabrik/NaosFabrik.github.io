@@ -14,17 +14,16 @@ Some of them were exhibited in several museums, spreaded as a postcard, used for
 
 ## Favourites
 * "Parallel World"
+
 {% include figure.html image="/assets/hobby/parallel.png" caption="" width="1600" height="800" %}
 
 Fine Prize, 2nd Japan-Korea-China Photography Contest for high school students
 
-
 *　"My Grandpa and Blue"
-
-Fine Prize of Under 31 Section, 60th Nikon Photo Contest
 
 {% include figure.html image="/assets/hobby/sofu.png" caption="" width="1600" height="800" %}
 
+Fine Prize of Under 31 Section, 60th Nikon Photo Contest
 
 * "Green Bicycle"
 {% include figure.html image="/assets/hobby/bike.png" caption="" width="1600" height="800" %}
