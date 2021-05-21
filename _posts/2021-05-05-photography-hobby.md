@@ -9,9 +9,7 @@ I was grown up with taking photos and learning from them, so I believe the power
 
 <!-- more -->
 ### Selected Favourite Works
-* Abundan　Water
-
-* Floating Step 
+* Abundan Water
 
 * Assimilation
 
