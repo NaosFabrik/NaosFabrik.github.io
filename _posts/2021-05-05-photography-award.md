@@ -19,11 +19,6 @@ Some of them were exhibited in several museums, spreaded as a postcard, used for
 
 Fine Prize, 2nd Japan-Korea-China Photography Contest for high school students
 
-*　"My Grandpa and Blue"
-
-{% include figure.html image="/assets/hobby/sofu.png" caption="" width="1600" height="800" %}
-
-Fine Prize of Under 31 Section, 60th Nikon Photo Contest
 
 * "Green Bicycle"
 {% include figure.html image="/assets/hobby/bike.png" caption="" width="1600" height="800" %}
@@ -37,11 +32,6 @@ Exhibition: Mar. - Apr. 2012 at [the Science Museum, Japan](https://www.jsf.or.j
 
 
 ## Others
-* ""
-
-The Ueno Hikoma Awards - Kyushu Sangyo University Photo Contest
-
-Exhibition: Nov. - Dec. 2012 at [TOKYO PHOTOGRAPHIC ART MUSEUM](https://topmuseum.jp/e/contents/index.html)
 
 * "真-Truely-"
 
@@ -52,4 +42,14 @@ Hankyu Railway Photojenic Postcard Contest
 [Postcard(Jp)](https://www.hankyu.co.jp/eehagaki/eehagaki2012/images/pdf/ukyo09.pdf)
 
 
+*　"My Grandpa and Blue"
+
+Fine Prize of Under 31 Section, 60th Nikon Photo Contest
+
+
+* ""
+
+The Ueno Hikoma Awards - Kyushu Sangyo University Photo Contest
+
+Exhibition: Nov. - Dec. 2012 at [TOKYO PHOTOGRAPHIC ART MUSEUM](https://topmuseum.jp/e/contents/index.html)
 
