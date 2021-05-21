@@ -14,33 +14,26 @@ Some of them were exhibited in several museums, spreaded as a postcard, used for
 
 ## Favourites
 * "Parallel World"
+{% include figure.html image="/assets/hobby/parallel.png" caption="" width="1600" height="800" %}
 
-Fine Prize
-
-2nd Japan-Korea-China Photography Contest for high school students
-
-{% include figure.html image="/assets/hobby/parallel.JPG" caption="" width="1600" height="800" %}
+Fine Prize, 2nd Japan-Korea-China Photography Contest for high school students
 
 
 *　"My Grandpa and Blue"
 
-Fine Prize of Under 31 Section 
+Fine Prize of Under 31 Section, 60th Nikon Photo Contest
 
-60th Nikon Photo Contest
-
-{% include figure.html image="/assets/hobby/sofu.JPG" caption="" width="1600" height="800" %}
-
+{% include figure.html image="/assets/hobby/sofu.png" caption="" width="1600" height="800" %}
 
 
 * "Green Bicycle"
+{% include figure.html image="/assets/hobby/bike.png" caption="" width="1600" height="800" %}
 
-Copper Prize
-
-55th National Art and Science Contest in Japan supported by Cabinet Office, Ministry of Education, and Ministry of the Environment
+Copper Prize, 55th National Art and Science Contest in Japan supported by Cabinet Office, Ministry of Education, and Ministry of the Environment
 
 Exhibition: Mar. - Apr. 2012 at [the Science Museum, Japan](https://www.jsf.or.jp/en/)
 
-{% include figure.html image="/assets/hobby/bike.JPG" caption="" width="1600" height="800" %}
+
 
 
 
