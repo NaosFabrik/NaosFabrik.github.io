@@ -15,49 +15,40 @@ Some of them were exhibited in several museums, spreaded as a postcard, used for
 ## Favourites
 * "Parallel World"
 
-Fine Prize
+{% include figure.html image="/assets/hobby/parallel.png" caption="" width="1600" height="800" %}
 
-2nd Japan-Korea-China Photography Contest for high school students
-
-{% include figure.html image="/assets/hobby/parallel.JPG" caption="" width="1600" height="800" %}
-
-
-*　"My Grandpa and Blue"
-
-Fine Prize of Under 31 Section 
-
-60th Nikon Photo Contest
-
-{% include figure.html image="/assets/hobby/sofu.JPG" caption="" width="1600" height="800" %}
-
+Fine Prize, 2nd Japan-Korea-China Photography Contest for high school students
 
 
 * "Green Bicycle"
 
-Copper Prize
+{% include figure.html image="/assets/hobby/bike.png" caption="" width="1600" height="800" %}
 
-55th National Art and Science Contest in Japan supported by Cabinet Office, Ministry of Education, and Ministry of the Environment
+Copper Prize, 55th National Art and Science Contest in Japan supported by Cabinet Office, Ministry of Education, and Ministry of the Environment
 
 Exhibition: Mar. - Apr. 2012 at [the Science Museum, Japan](https://www.jsf.or.jp/en/)
-
-{% include figure.html image="/assets/hobby/bike.JPG" caption="" width="1600" height="800" %}
 
 
 
 ## Others
-* ""
-
-The Ueno Hikoma Awards - Kyushu Sangyo University Photo Contest
-
-Exhibition: Nov. - Dec. 2012 at [TOKYO PHOTOGRAPHIC ART MUSEUM](https://topmuseum.jp/e/contents/index.html)
 
 * "真-Truely-"
 
-Top Award for students
+Gold Prize for Students Section
 
 Hankyu Railway Photojenic Postcard Contest
 
 [Postcard(Jp)](https://www.hankyu.co.jp/eehagaki/eehagaki2012/images/pdf/ukyo09.pdf)
 
 
+*　"My Grandpa and Blue"
+
+Fine Prize of Under 31 Section, 60th Nikon Photo Contest
+
+
+* "The Sun's and Sea's Art Object Store"
+
+The Ueno Hikoma Awards - Kyushu Sangyo University Photo Contest
+
+Exhibition: Nov. - Dec. 2012 at [TOKYO PHOTOGRAPHIC ART MUSEUM](https://topmuseum.jp/e/contents/index.html)
 
