@@ -38,7 +38,7 @@ Gold Prize for Students Section
 
 Hankyu Railway Photojenic Postcard Contest
 
-[Postcard(Jp)](https://www.hankyu.co.jp/eehagaki/eehagaki2012/images/pdf/ukyo09.pdf)
+[Postcard(Ja)](https://www.hankyu.co.jp/eehagaki/eehagaki2012/images/pdf/ukyo09.pdf)
 
 
 *　"My Grandpa and Blue"
