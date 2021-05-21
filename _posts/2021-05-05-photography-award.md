@@ -30,13 +30,11 @@ Exhibition: Mar. - Apr. 2012 at [the Science Museum, Japan](https://www.jsf.or.j
 
 
 
-
-
 ## Others
 
 * "真-Truely-"
 
-Top Award for students
+Gold Prize for Students Section
 
 Hankyu Railway Photojenic Postcard Contest
 
@@ -48,7 +46,7 @@ Hankyu Railway Photojenic Postcard Contest
 Fine Prize of Under 31 Section, 60th Nikon Photo Contest
 
 
-* ""
+* "The Sun's and Sea's Art Object Store"
 
 The Ueno Hikoma Awards - Kyushu Sangyo University Photo Contest
 
