@@ -11,23 +11,23 @@ I like to work on concept protopyping works based on my interests or problem sol
 * "Intersection of Lights"
 Concept for the dream guest room with an introduction movie and models created on Autodesk Fusion 360
 
-{% include figure.html image="" caption="3D models" position="right" width="300" height="800" %}
+{% include figure.html image="" caption="3D Models" width="1600" height="800"  %}
 
-{% include video.html id="https://youtube.com/shorts/5kmTHwyZZjg?feature=share" title="Concept Video" %}
+{% include video.html id="https://youtube.com/shorts/5kmTHwyZZjg" title="Concept Video" %}
 
 * "Syne Studio"
 
-Synesthesia Drawing Experimental System with Arduino and Processing (micro-computer and Java-based programing tool)
+{% include figure.html image=""  width="1600" height="800"  %}
 
 
 * "MOMC -My Own Museum Collections-"
 
-Issue: How can we record our experience at museums?
+{% include figure.html image="" width="1600" height="800"  %}
 
 Fine Prize from The Organization of Advertising Creation Japan, 4th Student Idea Contest to Make the Society Better
 
-* " " Nudge Object Design
+* Nudge Object Design
 
-Issue: What makes people willingly to discharge static electricity before entering the building?
+{% include figure.html image=""  width="1600" height="800"  %}
 
-School Project
+Design Thinking and Behavioral Economics course work

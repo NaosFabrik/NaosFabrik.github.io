@@ -15,14 +15,14 @@ Some of them were exhibited in several museums, spreaded as a postcard, used for
 ## Favourites
 * "Parallel World"
 
-{% include figure.html image="/assets/hobby/parallel.png" caption="" width="1600" height="800" %}
+{% include figure.html image="/assets/hobby/parallel.png" width="1600" height="800" %}
 
 Fine Prize, 2nd Japan-Korea-China Photography Contest for high school students
 
 
 * "Green Bicycle"
 
-{% include figure.html image="/assets/hobby/bike.png" caption="" width="1600" height="800" %}
+{% include figure.html image="/assets/hobby/bike.png" width="1600" height="800" %}
 
 Copper Prize, 55th National Art and Science Contest in Japan supported by Cabinet Office, Ministry of Education, and Ministry of the Environment
 
@@ -38,7 +38,7 @@ Gold Prize for Students Section
 
 Hankyu Railway Photojenic Postcard Contest
 
-[Postcard(Jp)](https://www.hankyu.co.jp/eehagaki/eehagaki2012/images/pdf/ukyo09.pdf)
+[Postcard(Ja)](https://www.hankyu.co.jp/eehagaki/eehagaki2012/images/pdf/ukyo09.pdf)
 
 
 *　"My Grandpa and Blue"
