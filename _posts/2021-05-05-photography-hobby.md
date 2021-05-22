@@ -5,7 +5,7 @@ categories:
 ---
 I like to take pictures with some message to think about. 
 
-Growning up with taking photos and learning from them, so I believe the power of photography.
+Growning up with taking photos and learning from them, I believe the power of photography.
 
 {% include figure.html image="/assets/hobby/photo_eyecatch.png" width="1600" height="800" %}
 
