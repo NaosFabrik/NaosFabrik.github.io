@@ -4,9 +4,7 @@ categories:
 - Photography
 ---
 
-Since I was around 10 years old, I started to take pictures.
-
-I have recieved around both nation-wide and international 20 awards. 
+Since I was around 10 years old, I started to take picture and got more then 20 nation-wide and international awards. 
 
 <!-- more -->
 
