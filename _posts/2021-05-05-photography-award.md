@@ -41,7 +41,7 @@ Hankyu Railway Photojenic Postcard Contest
 [Postcard(Ja)](https://www.hankyu.co.jp/eehagaki/eehagaki2012/images/pdf/ukyo09.pdf)
 
 
-*　"My Grandpa and Blue"
+* "My Grandpa and Blue"
 
 Fine Prize of Under 31 Section, 60th Nikon Photo Contest
 
