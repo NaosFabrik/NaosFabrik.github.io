@@ -18,7 +18,7 @@ Some of them were exhibited in several museums, spreaded as a postcard, used for
 {% include figure.html image="/assets/hobby/parallel.png" width="1600" height="800" %}
 
 Fine Prize, 2nd Japan-Korea-China Photography Contest for high school students
-
+<br>
 
 * "Green Bicycle"
 
@@ -40,12 +40,12 @@ Hankyu Railway Photojenic Postcard Contest
 
 [Postcard(Ja)](https://www.hankyu.co.jp/eehagaki/eehagaki2012/images/pdf/ukyo09.pdf)
 
-
+<br>
 * "My Grandpa and Blue"
 
 Fine Prize of Under 31 Section, 60th Nikon Photo Contest
 
-
+<br>
 * "The Sun's and Sea's Art Object Store"
 
 The Ueno Hikoma Awards - Kyushu Sangyo University Photo Contest
