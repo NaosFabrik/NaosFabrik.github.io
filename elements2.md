@@ -11,7 +11,7 @@ excerpt: "Project"
 
    - Data Visualization
 
-   - Database Modeling
+   - Trials and analysis of creative AI tools ([Project Muse](https://blog.google/around-the-globe/google-europe/project-muze-fashion-inspired-by-you/))
 
 
 ## Personal Project
