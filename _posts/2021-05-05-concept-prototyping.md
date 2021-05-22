@@ -17,7 +17,6 @@ Concept for the dream guest room with an introduction movie and models created o
 
 <br>
 
-
 * "Syne Studio"
 
 {% include figure.html image="/assets/hobby/concept_01.png"  width="1200" height="800"  %}
