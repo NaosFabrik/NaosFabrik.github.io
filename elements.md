@@ -38,4 +38,4 @@ Poster and Thesis
        
 * Mar.2017 [ACM International Conference on Tangible, Embedded and Embodied Interaction (TEI) 2017](https://tei.acm.org/2017/) in Yokohama, Japan, Selected Student Volunteer	
 
-* Feb.2017 [Big Data Fieldwork on Disaster Management](https://www.eba-consortium.asia/?p=2998) at Faculty of Engineering, Chulalongkorn University, Bangkok, Thailand, Selected Student from Japan
+* Feb.2017 [Big Data Fieldwork on Disaster Management](https://www.eba-consortium.asia/?p=2998) at Faculty of Engineering, Chulalongkorn University, Bangkok, Thailand, Selected Student
