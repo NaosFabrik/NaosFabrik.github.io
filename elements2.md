@@ -16,6 +16,9 @@ excerpt: "Project"
 
 
 ## Personal Project
+* Mobile App
+
+
 * Data-driven Business Plan Competition for Bookstores
 
 2018 Customer Value Creation Award, Digital Innovators Grand Prix (Business Planning) 
