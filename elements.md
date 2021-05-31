@@ -4,13 +4,13 @@ excerpt: "Research Interest"
 ---
 
 #### Natural Language Processing
-* Information extraction
 * Ontlogy engineering
 * Lexical semantics
 * Multimodal signal processing
 
-#### Human-centered Computing
+#### Human-centered Computing 
 * Accesibility
+* Human computer interaction
 
 #### Applied Computing
 * Arts and humanities
@@ -18,6 +18,9 @@ excerpt: "Research Interest"
 
 ## Publication
 Coming Soon ...
+
+## Research Projects
+
 
 ## Related Experience
 * July.2021 [Eastern European Machine Learning Summer School 2021](https://www.eeml.eu/home) in Budapest, Hungary(virtual), Selected Participant 
@@ -29,4 +32,3 @@ Coming Soon ...
 * Aug.2019 [ICANN(Internet Corporation for Assigned Names and Numbers) Asia Pacific Internet Governance Academy 2019](https://www.icann.org/en/announcements/details/apply-now-the-asia-pacific-internet-governance-academy-2019-14-5-2019-en) in Seoul, Korea, Selected Delegate	    
        
 * Mar.2017 [ACM International Conference on Tangible, Embedded and Embodied Interaction (TEI) 2017](https://tei.acm.org/2017/) in Yokohama, Japan, Selected Student Volunteer		 
-
