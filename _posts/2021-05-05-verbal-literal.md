@@ -29,7 +29,7 @@ Selected as one of the exchange students for one week in my fifth grade at an el
 
 An island of contemporary art in the Seto Inland Sea, where a single pumpkin can change my perspective.
 
-{% include figure.html image="/assets/hobby/writing_01.png"  width="800" height="400"  %}
+{% include figure.html image="/assets/hobby/writing_01.png" caption="the scenary" width="800" height="400"  %}
 
 * 
 
