@@ -5,19 +5,21 @@ excerpt: "Project"
 ## School Project
 * Graduation Thesis
 
- "Two Dimensional Put-in / Take-out Detection of Linens with Ultrasonic Microphone Array"
+ "Two Dimensional Put-in/Take-out Detection of Linens with Ultrasonic Microphone Array"
 <br/>
 
 * Favourite Course Works
 
    - Data Visualization
 
-   - Trials and analysis of creative AI tools ([Project Muse](https://blog.google/around-the-globe/google-europe/project-muze-fashion-inspired-by-you/))
+{% include figure.html image="/assets/hobby/writing_01.png" caption="flood assumption in a coast of Thailand" width="800" height="400"  %}
+
+   - Trials and analysis of existing creative AI tools ([Project Muse](https://blog.google/around-the-globe/google-europe/project-muze-fashion-inspired-by-you/))
+
+{% include figure.html image="/assets/hobby/writing_01.png" caption="Fasion Design with the AI tool" width="800" height="400"  %}
 
 
 ## Personal Project
-* Mobile App
-
 
 * Data-driven Business Plan Competition for Bookstores
 
