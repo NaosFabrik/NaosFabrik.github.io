@@ -28,6 +28,8 @@ Poster and Thesis
 
 
 ## Related Experience
+* Selected Mentee
+
 * July.2021 [Eastern European Machine Learning Summer School 2021](https://www.eeml.eu/home) in Budapest, Hungary(virtual), Accepted Research Extended Abstract and Selected Participant 
 
 * Jan-Mar.2020 [Digital Product School by UnternehmerTUM](https://digitalproductschool.io/) in Munich, Germany, Selected Software Engineer
