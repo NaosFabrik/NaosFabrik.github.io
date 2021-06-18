@@ -14,6 +14,7 @@ excerpt: "Project"
 
 {% include figure.html image="/assets/project/project_01.png" width="800" height="400"  %}
 
+   
    - Trials and analysis of existing creative AI tools ([Project Muse](https://blog.google/around-the-globe/google-europe/project-muze-fashion-inspired-by-you/))
 
 {% include figure.html image="/assets/project/project_02.png" caption="fasion design with the AI tool" width="800" height="400"  %}
