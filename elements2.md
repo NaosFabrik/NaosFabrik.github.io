@@ -12,7 +12,7 @@ excerpt: "Project"
 
    - Data Visualization
 
-{% include figure.html image="/assets/project/project_01.png" caption="flood assumption in a coast of Thailand" width="800" height="400"  %}
+{% include figure.html image="/assets/project/project_01.png" width="800" height="400"  %}
 
    - Trials and analysis of existing creative AI tools ([Project Muse](https://blog.google/around-the-globe/google-europe/project-muze-fashion-inspired-by-you/))
 
