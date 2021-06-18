@@ -25,7 +25,7 @@ excerpt: "Project"
 
 2018 Customer Value Creation Award, Digital Innovators Grand Prix (Business Planning) 
 
-{% include figure.html image="/assets/project/project_03.png" caption="word cloud about bookstores from tweets" width="800" height="400"  %}
+{% include figure.html image="/assets/project/project_03.png" caption="word cloud about bookstores from tweets" width="400" height="400"  %}
 
 ## Awards
 * Feb. 2019 [Cisco Cyber Security Scholarship](https://mkto.cisco.com/Security-Scholarship.html) Training in Japan
