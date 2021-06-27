@@ -1,6 +1,6 @@
 ---
 title: About 
-feature_image: /assets/logos/portfolio_bannar.png
+feature_image: /assets/logos/portfolio_bannar.svg
 excerpt: "Personal Webpage"
 ---
 
