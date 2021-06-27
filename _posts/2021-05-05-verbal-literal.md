@@ -31,9 +31,17 @@ An island of contemporary art in the Seto Inland Sea, where a single pumpkin can
 
 {% include figure.html image="/assets/hobby/writing_01.png" caption="the scenary" width="800" height="400"  %}
 
-* 
+* Nur Warme Farbe 
 
-*
+hat sich verringert -
+
+der Herbst für die Kunst
+
+* lange Herbstabende - 
+
+hinter mich, dem Mond herjagen
+
+auf dem Nachhauseweg
 
 ### Presentation
 * 2020 Digital Product School Diversity Week, invited presenter
