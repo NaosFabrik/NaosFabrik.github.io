@@ -24,6 +24,7 @@ Award of excellence
 
 Selected as one of the exchange students for one week in my fifth grade at an elementary school
 
+
 ### Haiku and Tanka (17 and 31 Syllabic verse poems) in several languages
 * 瀬戸内の　現代アートの　浮かぶ島　南瓜１つで　視点は変わる
 
@@ -31,9 +32,11 @@ An island of contemporary art in the Seto Inland Sea, where a single pumpkin can
 
 {% include figure.html image="/assets/hobby/writing_01.png" caption="the scenary" width="800" height="400"  %}
 
-* 
+* Nur Warme Farbe hat sich verringert - der Herbst für die Kunst
 
-*
+* auf Wolkengipfel Welche Sirupfarben stelle sieht das lecker aus?
+
+* than I expected, my heart haven’t dyed by any color yet, what let me know was blue in an exotic country
 
 ### Presentation
 * 2020 Digital Product School Diversity Week, invited presenter
@@ -44,3 +47,5 @@ Accepted with essays and interviews, and had mutual learning oppotunities.
 
 * 2019-2021 [Wedu Global, Raising Star (Selected Mentee)](https://www.weduglobal.org/rising-star/)
 * 2020 [Digitaler Deutsch-Japanischer Youth Summit](https://djjg.org/digitaler-deutsch-japanischer-youth-summit/), eine Teilnehmerin
+
+
