@@ -36,7 +36,7 @@ An island of contemporary art in the Seto Inland Sea, where a single pumpkin can
 
 * auf Wolkengipfel Welche Sirupfarben stelle sieht das lecker aus?
 
-*
+* than I expected, my heart haven’t dyed by any color yet, what let me know was blue in an exotic country
 
 ### Presentation
 * 2020 Digital Product School Diversity Week, invited presenter
