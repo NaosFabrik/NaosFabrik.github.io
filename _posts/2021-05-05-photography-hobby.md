@@ -20,8 +20,5 @@ Growning up with taking photos and learning from them, I believe the power of ph
 
 {% include figure.html image="/assets/hobby/photo_02.png" width="800" height="1600" %}
 <br>
-* Math in Life - area, graph, and scale -
-
-<br>
 And more...
-{% include button.html text="Flickr" icon="flickr" link="" color="#FF0080" %}
+{% include button.html text="Flickr" icon="flickr" link="https://www.flickr.com/gp/193281660@N05/3w78C0" color="#FF0080" %}

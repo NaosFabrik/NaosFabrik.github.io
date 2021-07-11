@@ -20,16 +20,16 @@ excerpt: "Research Interest"
 Coming Soon ...
 
 ## Research Projects
+* 
+
 * “Automatic photo title generation method using TensorFlow”
 
 2019 Achievement Award, Japan MEXT Science Inter College Contest
 
-Poster and Thesis
+poster and thesis
 
 
 ## Related Experience
-* Selected Mentee
-
 * July.2021 [Eastern European Machine Learning Summer School 2021](https://www.eeml.eu/home) in Budapest, Hungary(virtual), Accepted Research Extended Abstract and Selected Participant 
 
 * Jan-Mar.2020 [Digital Product School by UnternehmerTUM](https://digitalproductschool.io/) in Munich, Germany, Selected Software Engineer
