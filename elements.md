@@ -24,7 +24,7 @@ Coming Soon ...
 
 Accepted, Eastern European Machine Learning Summer School 2021 
 
-2 pages extended abstract
+two pages extended abstract
 
 * “Automatic photo title generation method using TensorFlow”
 
