@@ -5,11 +5,11 @@ excerpt: "Personal Webpage"
 ---
 
 ## Hi, I'm Nao 👋
-I'm a software engineer with creative and multi-lingual backgrounds who especially passionate in Human Computer Interaction and Natural Language Processing fields. 
+I'm a software engineer with creative and multi-lingual backgrounds who is especially passionate about Human-Computer Interaction and Natural Language Processing fields. 
 
-- 🦊 Working as a full-time Software Engineer and Researcher at a R&D division 
+- 🦊 Working as a full-time Software Engineer and Researcher at an R&D division 
 - 🚀 Learning NLP and Business for Master's Degree
-- 🎨 Design & Tech Integrator for problem solving
+- 🎨 Design & Tech Integrator for problem-solving
 - 🌱 Photography(6years+), Contents Creation(2years+), and Tandem Language Learning(1years+)
 
 Fun Fact: Transition of My Future Dreams
