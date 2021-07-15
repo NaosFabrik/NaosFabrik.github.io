@@ -8,7 +8,7 @@ excerpt: "Project"
  "Two Dimensional Put-in/Take-out Detection of Linens with Ultrasonic Microphone Array"
 <br/>
 
-* Data visualization course work
+* Data visualization coursework
 
 {% include figure.html image="/assets/project/project_01.png" width="800" height="400"  %}
 
