@@ -20,7 +20,7 @@ excerpt: "Research Interest"
 Coming Soon ...
 
 ## Research Projects
-* * "Improved Similarity Measurement Algorithm in WordNet for Product Search"
+* "Improved Similarity Measurement Algorithm in WordNet for Product Search"
 
 Eastern European Machine Learning Summer School 2021 Accepted
 
