@@ -22,7 +22,7 @@ Coming Soon ...
 ## Research Projects
 * "Improved Similarity Measurement Algorithm in WordNet for Product Search"
 
-Eastern European Machine Learning Summer School 2021 Accepted
+Accepted, Eastern European Machine Learning Summer School 2021 
 
 2 pages extended abstract
 
