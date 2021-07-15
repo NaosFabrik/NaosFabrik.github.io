@@ -3,9 +3,9 @@ title: Hobby Works
 categories:
 - Photography
 ---
-I like to take pictures with some message to think about. 
+I like to take pictures with some messages or questions for viwers. 
 
-Growning up with taking photos and learning from them, I believe the power of photography.
+Growing up taking photos and learning from them, I believe in the power of photography.
 
 {% include figure.html image="/assets/hobby/photo_eyecatch.png" width="1600" height="800" %}
 

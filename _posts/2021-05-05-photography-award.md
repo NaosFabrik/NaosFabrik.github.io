@@ -4,11 +4,11 @@ categories:
 - Photography
 ---
 
-Since I was around 10 years old, I started to take picture and got more then 20 nation-wide and international awards. 
+Since I was around 10 years old, I started to take a picture and got more than 20 nation-wide and international awards. 
 
 <!-- more -->
 
-Some of them were exhibited in several museums, spreaded as a postcard, used for advertisement, and contributed for the suggestion of filming locations.
+Some of them were exhibited in several museums, spread as a postcard, used for advertisement, and contributed to the suggestion of filming locations.
 
 ## Favourites
 * "Parallel World"
@@ -30,7 +30,7 @@ Exhibition: Mar. - Apr. 2012 at [the Science Museum, Japan](https://www.jsf.or.j
 
 ## Others
 
-* "真-Truely-"
+* "真-Truly-"
 
 Gold Prize for Students Section
 
