@@ -20,14 +20,17 @@ excerpt: "Research Interest"
 Coming Soon ...
 
 ## Research Projects
-* 
+* "Improved Similarity Measurement Algorithm in WordNet for Product Search"
+
+Accepted, Eastern European Machine Learning Summer School 2021 
+
+two pages extended abstract
 
 * “Automatic photo title generation method using TensorFlow”
 
 2019 Achievement Award, Japan MEXT Science Inter College Contest
 
 poster and thesis
-
 
 ## Related Experience
 * July.2021 [Eastern European Machine Learning Summer School 2021](https://www.eeml.eu/home) in Budapest, Hungary(virtual), Accepted Research Extended Abstract and Selected Participant 
