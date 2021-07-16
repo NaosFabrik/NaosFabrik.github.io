@@ -5,6 +5,8 @@ categories:
 ---
 I'm taking classes of [Google UX Design Professional Certificate](https://www.coursera.org/professional-certificates/google-ux-design) now.
 
+{% include figure.html image="/assets/hobby/ux_01.png"  width="1200" height="800"  %}
 
+Case studies are coming soon...
 
-A case study and its detail are coming soon...
+<!-- more -->
