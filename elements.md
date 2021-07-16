@@ -8,13 +8,14 @@ excerpt: "Research Interest"
 * Lexical semantics
 * Multimodal signal processing
 
-#### Human-centered Computing 
+#### Human-Centered Computing 
 * Accesibility
 * Human computer interaction
 
 #### Applied Computing
 * Arts and humanities
 * Operations research
+* Behavioral economics
 
 ## Publication
 Coming Soon ...
