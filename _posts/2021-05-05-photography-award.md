@@ -10,7 +10,7 @@ Since I was around 10 years old, I started to take a picture and got more than 2
 
 Some of them were exhibited in several museums, spread as a postcard, used for advertisement, and contributed to the suggestion of filming locations.
 
-## Favourites
+## Favorites
 * "Parallel World"
 
 {% include figure.html image="/assets/hobby/parallel.png" width="1600" height="800" %}
