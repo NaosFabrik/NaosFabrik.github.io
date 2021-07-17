@@ -4,7 +4,7 @@ categories:
 - Verbal & Literal
 ---
 
-Writing and verbal expressions are one of the ways to express thoughts and beauty since my youth.
+Writing and verbal expressions are one of the ways to express thoughts and beauty that I experience and feel.
 
 <!-- more -->
 ### Essay
