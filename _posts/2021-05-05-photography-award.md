@@ -25,6 +25,8 @@ Fine Prize, 2nd Japan-Korea-China Photography Contest for high school students
 
 Selected work, the cats' feature on a photo and lifestyle magazine in Japan, 2015
 
+<br>
+
 * "Green Bicycle"
 
 {% include figure.html image="/assets/hobby/bike.png" width="1600" height="800" %}
