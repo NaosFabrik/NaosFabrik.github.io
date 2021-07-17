@@ -28,7 +28,7 @@ Selected as one of the exchange students for one week in my fifth grade at an el
 
 
 ### Haiku and Tanka (17 and 31 Syllabic verse poems) in several languages
-* 瀬戸内の　現代アートの　浮かぶ島　南瓜１つで　視点は変わる
+* 瀬戸内の　現代アートが　浮かぶ島　南瓜一つで　視点は変わる
 
 An island of contemporary art in the Seto Inland Sea, where a single pumpkin can change my perspective.
 

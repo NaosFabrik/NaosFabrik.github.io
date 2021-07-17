@@ -8,7 +8,7 @@ Since I was around 10 years old, I started to take a picture and got more than 2
 
 <!-- more -->
 
-Some of them were exhibited in several museums, spread as a postcard, used for advertisement, and contributed to the suggestion of filming locations.
+Some of them were exhibited in several museums and stations, spread as a postcard, used for advertisement, and contributed to the suggestion of filming locations.
 
 ## Favorites
 * "Parallel World"
@@ -16,6 +16,14 @@ Some of them were exhibited in several museums, spread as a postcard, used for a
 {% include figure.html image="/assets/hobby/parallel.png" width="1600" height="800" %}
 
 Fine Prize, 2nd Japan-Korea-China Photography Contest for high school students
+
+<br>
+
+* "The Cat's Shape"
+
+{% include figure.html image="/assets/hobby/catsshape.png" width="800" height="1600" %}
+
+Selected work, the cats' feature on a photo and lifestyle magazine in Japan, 2015
 
 <br>
 
@@ -31,9 +39,7 @@ Exhibition: Mar. - Apr. 2012 at [the Science Museum, Japan](https://www.jsf.or.j
 
 * "真-Truly-"
 
-Gold Prize for Students Section
-
-Hankyu Railway Photojenic Postcard Contest
+Gold Prize for Students Section, Hankyu Railway Photojenic Postcard Contest
 
 [Postcard(Ja)](https://www.hankyu.co.jp/eehagaki/eehagaki2012/images/pdf/ukyo09.pdf)
 
