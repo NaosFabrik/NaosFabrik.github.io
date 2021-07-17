@@ -8,7 +8,7 @@ Since I was around 10 years old, I started to take a picture and got more than 2
 
 <!-- more -->
 
-Some of them were exhibited in several museums and stations, spread as a postcard, used for advertisement, and contributed to the suggestion of filming locations.
+Some of them were exhibited in museums and stations, spread as a postcard, used for advertisement, and contributed to the suggestion of filming locations.
 
 ## Favorites
 * "Parallel World"

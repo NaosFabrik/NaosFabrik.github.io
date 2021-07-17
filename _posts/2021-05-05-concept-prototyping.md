@@ -32,7 +32,7 @@ Fine Prize from The Organization of Advertising Creation Japan, 4th Student Idea
 
 <br>
 
-* Nudge Object Design
+* Product design with nudge theory
 
 {% include figure.html image="/assets/hobby/concept_03.png"  width="1200" height="800"  %}
 

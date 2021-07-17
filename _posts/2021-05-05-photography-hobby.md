@@ -3,7 +3,7 @@ title: Hobby Works
 categories:
 - Photography
 ---
-I like to take pictures with some messages or questions for viwers. 
+I like to take pictures with some messages or questions for viewers. 
 
 Growing up taking photos and learning from them, I believe in the power of photography.
 
@@ -11,7 +11,7 @@ Growing up taking photos and learning from them, I believe in the power of photo
 
 <!-- more -->
 ### Selected Favourite Works
-* Abundan Water
+* Abundant Water
 
 {% include figure.html image="/assets/hobby/photo_01.png" width="800" height="1600" %}
 

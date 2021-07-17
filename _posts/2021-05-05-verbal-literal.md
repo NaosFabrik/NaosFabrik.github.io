@@ -4,7 +4,7 @@ categories:
 - Verbal & Literal
 ---
 
-Writing and verbal expressions are one of the ways to express thoughts and beauty since my youth.
+Writing and verbal expressions are one of the ways to express thoughts and beauty that I felt.
 
 <!-- more -->
 ### Essay
@@ -30,7 +30,7 @@ Selected as one of the exchange students for one week in my fifth grade at an el
 ### Haiku and Tanka (17 and 31 Syllabic verse poems) in several languages
 * 瀬戸内の　現代アートが　浮かぶ島　南瓜一つで　視点は変わる
 
-An island of contemporary art in the Seto Inland Sea, where a single pumpkin can change my perspective.
+An island of contemporary art in the Seto Inland Sea, where one pumpkin can change my perspective.
 
 {% include figure.html image="/assets/hobby/writing_01.png" caption="the scenary" width="800" height="400"  %}
 
@@ -40,7 +40,7 @@ An island of contemporary art in the Seto Inland Sea, where a single pumpkin can
 
 * auf Wolkengipfel Welche Sirupfarben stelle sieht das lecker aus?
 
-* than I expected, my heart hasn’t dyed by any color yet, what let me know was blue in an exotic country
+* than I expected, my heart hasn’t dyed by any color yet, what let me know was the blue in an exotic country
 
 ### Presentation
 * 2020 Digital Product School Diversity Week, invited presenter
