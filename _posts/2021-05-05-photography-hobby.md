@@ -3,7 +3,7 @@ title: Hobby Works
 categories:
 - Photography
 ---
-I like to take pictures with some messages or questions for viwers. 
+I like to take pictures with some messages or questions for viewers. 
 
 Growing up taking photos and learning from them, I believe in the power of photography.
 
