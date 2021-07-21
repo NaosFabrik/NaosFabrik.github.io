@@ -14,24 +14,24 @@ I'm a software engineer with creative and multi-lingual backgrounds who is espec
 
 ## Language and Tools
 <p>
-<img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="Python" height="40" style="vertical-align:top; margin:4px">
-<img src="https://cdn.worldvectorlogo.com/logos/unity-69.svg" alt="Unity" height="40" style="vertical-align:top; margin:4px"> 
-<img src="https://cdn.worldvectorlogo.com/logos/kotlin-1.svg" alt="Kotolin" height="40" style="vertical-align:top; margin:4px">  
-<img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="JavaScript" height="40" style="vertical-align:top; margin:4px">
-<img src="https://cdn.worldvectorlogo.com/logos/postgresql.svg" alt="PostgreSQL" height="40" style="vertical-align:top; margin:4px">
-<img src="https://cdn.worldvectorlogo.com/logos/mysql-6.svg" alt="MySQL" height="40" style="vertical-align:top; margin:4px">
-<img src="https://cdn.worldvectorlogo.com/logos/linux-tux.svg" alt="Linux" height="40" style="vertical-align:top; margin:4px">  
-<img src="https://cdn.worldvectorlogo.com/logos/ubuntu-4.svg" alt="Ubuntu" height="40" style="vertical-align:top; margin:4px">  
-<img src="https://cdn.worldvectorlogo.com/logos/java.svg" alt="Java" height="40" style="vertical-align:top; margin:4px"> 
-<img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" alt="VSCode" height="40" style="vertical-align:top; margin:4px"> 
-<img src="https://cdn.worldvectorlogo.com/logos/draw-io.svg" alt="Drawio" height="40" style="vertical-align:top; margin:4px"> 
-<img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" height="40" style="vertical-align:top; margin:4px"> 
-<img src="https://cdn.worldvectorlogo.com/logos/raspberry-pi.svg" alt="RaspberryPi" height="40" style="vertical-align:top; margin:4px"> 
-<img src="https://cdn.worldvectorlogo.com/logos/figma-1.svg" alt="Figma" height="40" style="vertical-align:top; margin:4px">  
-<img src="https://cdn.worldvectorlogo.com/logos/wordpress-blue.svg" alt="WordPress" height="40" style="vertical-align:top; margin:4px"> 
-<img src="https://cdn.worldvectorlogo.com/logos/latex.svg" alt="Latex" height="40" style="vertical-align:top; margin:4px"> 
-<img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" alt="Git" height="40" style="vertical-align:top; margin:4px">  
-<img src="https://cdn.worldvectorlogo.com/logos/jira-1.svg" alt="Jira" height="40" style="vertical-align:top; margin:4px">  
+<img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="Python" height="5" style="vertical-align:top; margin:4px">
+<img src="https://cdn.worldvectorlogo.com/logos/unity-69.svg" alt="Unity" height="5" style="vertical-align:top; margin:4px"> 
+<img src="https://cdn.worldvectorlogo.com/logos/kotlin-1.svg" alt="Kotolin" height="5" style="vertical-align:top; margin:4px">  
+<img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="JavaScript" height="5" style="vertical-align:top; margin:4px">
+<img src="https://cdn.worldvectorlogo.com/logos/postgresql.svg" alt="PostgreSQL" height="5" style="vertical-align:top; margin:4px">
+<img src="https://cdn.worldvectorlogo.com/logos/mysql-6.svg" alt="MySQL" height="5" style="vertical-align:top; margin:4px">
+<img src="https://cdn.worldvectorlogo.com/logos/linux-tux.svg" alt="Linux" height="5" style="vertical-align:top; margin:4px">  
+<img src="https://cdn.worldvectorlogo.com/logos/ubuntu-4.svg" alt="Ubuntu" height="5" style="vertical-align:top; margin:4px">  
+<img src="https://cdn.worldvectorlogo.com/logos/java.svg" alt="Java" height="5" style="vertical-align:top; margin:4px"> 
+<img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" alt="VSCode" height="5" style="vertical-align:top; margin:4px"> 
+<img src="https://cdn.worldvectorlogo.com/logos/draw-io.svg" alt="Drawio" height="5" style="vertical-align:top; margin:4px"> 
+<img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" height="5" style="vertical-align:top; margin:4px"> 
+<img src="https://cdn.worldvectorlogo.com/logos/raspberry-pi.svg" alt="RaspberryPi" height="5" style="vertical-align:top; margin:4px"> 
+<img src="https://cdn.worldvectorlogo.com/logos/figma-1.svg" alt="Figma" height="5" style="vertical-align:top; margin:4px">  
+<img src="https://cdn.worldvectorlogo.com/logos/wordpress-blue.svg" alt="WordPress" height="5" style="vertical-align:top; margin:4px"> 
+<img src="https://cdn.worldvectorlogo.com/logos/latex.svg" alt="Latex" height="5" style="vertical-align:top; margin:4px"> 
+<img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" alt="Git" height="5" style="vertical-align:top; margin:4px">  
+<img src="https://cdn.worldvectorlogo.com/logos/jira-1.svg" alt="Jira" height="5" style="vertical-align:top; margin:4px">  
 </p>
 
 ## Fun Fact
