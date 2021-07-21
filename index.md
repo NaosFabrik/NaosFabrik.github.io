@@ -37,6 +37,7 @@ I'm a software engineer with creative and multi-lingual backgrounds who is espec
 </p>
 
 <br>
+
 ## Fun Fact
 Transition of My Future Dreams
 - 🦄 Dancer, Photographer, Translator, Industrial Designer, Pharmacist, Chemist, Astronomer, Architect, and Curator -> Creative Technologist & Entrepreneur
