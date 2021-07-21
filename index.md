@@ -36,6 +36,7 @@ I'm a software engineer with creative and multi-lingual backgrounds who is espec
 {% include figure.html image="https://cdn.worldvectorlogo.com/logos/jira-1.svg position="left" width="40" height="40" %}  
 </p>
 
+<br>
 ## Fun Fact
 Transition of My Future Dreams
 - 🦄 Dancer, Photographer, Translator, Industrial Designer, Pharmacist, Chemist, Astronomer, Architect, and Curator -> Creative Technologist & Entrepreneur
