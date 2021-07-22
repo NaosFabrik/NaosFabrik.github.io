@@ -17,8 +17,12 @@ excerpt: "Research Interest"
 * Operations research
 * Behavioral economics
 
+<br>
+
 ## Publication
 Coming Soon ...
+
+<br>
 
 ## Research Projects
 * "Improved Similarity Measurement Algorithm in WordNet for Product Search"
@@ -32,6 +36,8 @@ two pages extended abstract
 2019 Achievement Award, Japan MEXT Science Inter College Contest
 
 poster and thesis
+
+<br>
 
 ## Related Experience
 * July.2021 [Eastern European Machine Learning Summer School 2021](https://www.eeml.eu/home) in Budapest, Hungary(virtual), Accepted Research Extended Abstract and Selected Participant 
