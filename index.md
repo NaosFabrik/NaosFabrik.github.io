@@ -24,7 +24,7 @@ I'm **a software engineer with creative and multi-lingual backgrounds** who is e
 </p>
 <br>
 <p>
-{% include figure.html image="https://cdn.worldvectorlogo.com/logos/figma-1.svg" position="left" width="40" height="40" %}{% include figure.html image="https://cdn.worldvectorlogo.com/logos/wordpress-blue.svg" position="left" width="40" height="40" %}{% include figure.html image="https://cdn.worldvectorlogo.com/logos/latex.svg" position="left" width="40" height="40" %}{% include figure.html image="https://cdn.worldvectorlogo.com/logos/git-icon.svg" position="left" width="40" height="40" %}{% include figure.html image="https://cdn.worldvectorlogo.com/logos/jira-1.svg" position="left" width="40" height="40" %}{% include figure.html image="https://pbs.twimg.com/profile_images/720253203833487360/E4jA7xy5_400x400.jpg" position="left" width="40" height="40" %}
+{% include figure.html image="https://cdn.worldvectorlogo.com/logos/figma-1.svg" position="left" width="40" height="40" %}{% include figure.html image="https://cdn.worldvectorlogo.com/logos/wordpress-blue.svg" position="left" width="40" height="40" %}{% include figure.html image="https://cdn.worldvectorlogo.com/logos/latex.svg" position="left" width="40" height="40" %}{% include figure.html image="https://cdn.worldvectorlogo.com/logos/git-icon.svg" position="left" width="40" height="40" %}{% include figure.html image="https://cdn.worldvectorlogo.com/logos/jira-1.svg" position="left" width="40" height="40" %}{% include figure.html image="https://pbs.twimg.com/profile_images/720253203833487360/E4jA7xy5_400x400.jpg" position="left" width="50" height="50" %}
 </p>
 <br>  
 <br> 
