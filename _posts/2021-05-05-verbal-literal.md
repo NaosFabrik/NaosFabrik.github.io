@@ -42,11 +42,17 @@ An island of contemporary art in the Seto Inland Sea, where one pumpkin can chan
 
 * than I expected, my heart hasn’t dyed by any color yet, what let me know was the blue in an exotic country
 
+### Narrative and Music
+* Okinawa folk songs
+
+I learned the Okinawan guitar, Sanshin, and songs for two years in my junior and senior high school days.
+
+{% include figure.html image="/assets/hobby/writing_02.png" caption="Sanshin and scores" width="800" height="400"  %}
+
 ### Presentation
 * 2020 Digital Product School Diversity Week, invited presenter
 
 ### Related Experience
-
 Accepted with essay and interview screenings, and had mutual learning opportunities.
 
 * 2019-2021 [Wedu Global, Raising Star (Selected Mentee)](https://www.weduglobal.org/rising-star/)
