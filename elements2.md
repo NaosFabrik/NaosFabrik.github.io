@@ -29,7 +29,7 @@ excerpt: "Project"
 
 <br>
 
-## Awards
+## Award
 * Feb. 2019 [Cisco Cyber Security Scholarship](https://mkto.cisco.com/Security-Scholarship.html) Training in Japan
 * Sep. 2017 [Women Techmakers Scholarship (Google Anita Borg Memorial Scholarship)](https://buildyourfuture.withgoogle.com/scholarships/) Scholar              
 
