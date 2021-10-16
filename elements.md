@@ -9,11 +9,11 @@ excerpt: "Research Interest"
 * Multimodal signal processing
 
 #### Human-Centered Computing 
-* Accesibility
+* Accessibility
 * Human computer interaction
 
 #### Applied Computing
-* Arts and humanities
+* Arts and humanities (Creative AI and computer supported cooperative work)
 * Operations research
 * Behavioral economics
 
