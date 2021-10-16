@@ -10,10 +10,11 @@ excerpt: "Research Interest"
 
 #### Human-Centered Computing 
 * Accessibility
+* Computer supported cooperative work
 * Human computer interaction
 
 #### Applied Computing
-* Arts and humanities (Creative AI and computer supported cooperative work)
+* Creative AI 
 * Operations research
 * Behavioral economics
 
