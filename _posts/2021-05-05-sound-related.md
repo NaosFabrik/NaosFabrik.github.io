@@ -4,6 +4,8 @@ categories:
 - Sound Related
 ---
 
+<!-- more -->
+
 ### Sound Related
 
 #### Instruments
