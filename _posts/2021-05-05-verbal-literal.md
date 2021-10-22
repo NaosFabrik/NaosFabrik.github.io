@@ -43,15 +43,6 @@ An island of contemporary art in the Seto Inland Sea, where one pumpkin can chan
 
 <br>
 
-### Narrative and Music
-* Okinawa folk songs
-
-I learned the Okinawan guitar, Sanshin, and songs for two years in my junior and senior high school days.
-
-{% include figure.html image="/assets/hobby/writing_02.png" caption="Sanshin and scores" width="800" height="400"  %}
-
-<br>
-
 ### Presentation
 * 2020 Digital Product School Diversity Week, invited presenter
 
