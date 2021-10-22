@@ -1,6 +1,12 @@
-### Narrative and Music
+---
+title: Sound Related
+categories:
+- Sound Related
+---
 
-#### School Days
+### Sound Related
+
+#### Instruments
 * Accordion
 
 Music classes at my elementary school
@@ -17,4 +23,4 @@ Extra curricular irregular lessons 2 years
 
 <br>
 
-
+#### Composition
