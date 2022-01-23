@@ -10,6 +10,7 @@ If you contact me, I may be able to share more details of projects and the lates
 
 
 - a designed Rube Goldberg machine extended Unity samples
+
 with curitousity for both soft and hard automaton and algorithms since my childhood
 
 {% include video.html id="" title="Concept Video" %}
