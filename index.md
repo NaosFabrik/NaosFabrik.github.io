@@ -16,7 +16,7 @@ I'm **a software engineer with creative and multi-lingual backgrounds** who is e
 
 ## Language and Tools
 <p>
-{% include figure.html image="https://cdn.worldvectorlogo.com/logos/python-5.svg" position="left" width="40" height="40" %}{% include figure.html image="https://cdn.worldvectorlogo.com/logos/unity-69.svg" position="left" width="40" height="40" %}{% include figure.html image="https://cdn.worldvectorlogo.com/logos/kotlin-1.svg" position="left" width="40" height="40" %}{% include figure.html image="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" position="left" width="40" height="40" %}{% include figure.html image="https://cdn.worldvectorlogo.com/logos/java.svg" position="left" width="40" height="40" %}{% include figure.html image="https://cdn.worldvectorlogo.com/logos/postgresql.svg" position="left" width="40" height="40" %}
+{% include figure.html image="https://cdn.worldvectorlogo.com/logos/python-5.svg" position="left" width="40" height="40" %}{% include figure.html image="https://cdn.worldvectorlogo.com/logos/unity-69.svg" position="left" width="40" height="40" %}{% include figure.html image="https://cdn.worldvectorlogo.com/logos/kotlin-1.svg" position="left" width="40" height="40" %}{% include figure.html image="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" position="left" width="40" height="40" %}{% include figure.html image="https://cdn.worldvectorlogo.com/logos/java.svg" position="left" width="40" height="40" %}{% include figure.html image="https://cdn.worldvectorlogo.com/logos/react-1.svg" position="left" width="40" height="40" %}
 </p>
 <br>
 <p>
