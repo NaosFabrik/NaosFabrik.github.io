@@ -9,6 +9,7 @@ If you contact me, I may be able to share more details of projects and the lates
 {% include button.html text="Google Form" icon="email" link="https://forms.gle/eNTHtCFPUnCRYaMWA" %}
 
 
+🦄Thank you for visiting this page!
 
 - a designed Rube Goldberg machine extended Unity samples
 
