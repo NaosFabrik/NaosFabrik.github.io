@@ -7,6 +7,8 @@ Specialization
 HCI and NLP based solution strategist and developer integrated business point of views
 
 ## Interdisciplinary
+* Music Production Specialization, Berklee School of Music [Technical & Business]
+
 * Creativity and A.I. Specialization, the new school PERSONS [Techincal & Business]
 
 * GIGA [Techincal & Language]
